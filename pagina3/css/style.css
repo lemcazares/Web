@@ -1,0 +1,38 @@
+body{
+  background-image: url(https://wallpapersite.com/images/pages/pic_w/896.jpg);
+  color: #ffffff;
+  margin: 100px;
+
+}
+h1{
+  position: static;
+  color: rgb(255, 255, 255);
+  top: 150px;
+  left: 100px;
+}
+
+.pos{
+  position: relative;
+  left: 100px;
+  right: 150px;
+  top: 100px;
+  bottom: 100px
+  padding: 20px;
+  justify-content: center;
+}
+.imagen{
+  position: relative;
+}
+
+.pos1{
+  position: relative;
+  left: 200px
+  right: 200px;
+  top: 200px;
+  bottom: 200px;
+  justify-content: center;
+}
+
+.pos2{
+  position: relative;
+}

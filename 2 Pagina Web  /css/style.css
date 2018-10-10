@@ -1,0 +1,36 @@
+.modeladoLogo{
+  padding: 30px 600px;
+  background: rgb(87, 41, 99);
+  width: 130px;
+  height: 130px;
+}
+img{
+  width: 40%;
+  height: auto;
+  border-style: solid;
+  border-width: 15px;
+}
+.parrafo1{
+  margin:10px 50px;
+  padding: 20px;
+  border-width: 15px;
+  border-style: groove;
+  border-color: rgb(18, 130, 0);
+  box-sizing: border-box;
+}
+.balde{
+  margin:10px 50px;
+  padding: 20px;
+  border-width: 15px;
+  border-style: groove;
+  border-color: rgb(18, 130, 0);
+  box-sizing: border-box;
+}
+.tresElementos{
+  margin: 30px 250px;
+  padding: 50px;
+  justify-content: center;
+  border-style: ridge;
+  border-color: #ff5c00;
+  border-width: 10px;
+}
