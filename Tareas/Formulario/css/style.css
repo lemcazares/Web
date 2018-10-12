@@ -1,0 +1,117 @@
+body{
+background-image: url(https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Images-wallpaper-new-PIC-WPC00923.jpg);
+
+background-size: cover;
+
+
+}
+
+
+
+.formulario{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  padding-top: 20px;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-bottom: 20px;
+  justify-content: center;
+  box-sizing: border-box;
+
+}
+.cajita{
+  box-sizing: border-box;
+  border-style: solid;
+  border-color: rgba(69, 62, 66, 0.91);
+  border-radius: 20px;
+  border-width: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  background-image: radial-gradient(rgba(43, 179, 21, 0.72), rgba(72, 73, 66, 0.6));
+  justify-content:center;
+
+
+
+}
+
+input[type=text] {
+    width: 100%;
+    border-radius: 5px;
+    padding: 12px 20px;
+    margin: 8px 0;
+  font-style: oblique;
+  font-size: 15pt;
+  color: black;
+    box-sizing: border-box;
+}
+
+input[type=date]{
+  width: 100%;
+  border-radius: 5px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-style: oblique;
+  font-size: 15pt;
+  color: black;
+  background-color: white;
+
+
+}
+
+input[type=email]{
+  width: 100%;
+  border-radius: 5px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-style: oblique;
+  font-size: 15pt;
+  color: black;
+
+}
+
+select[name=Pais]{
+  width: 100%;
+  border-radius: 5px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-style: oblique;
+  font-size: 15pt;
+  color: black;
+    background-color: white;
+}
+
+.logo{
+  width: 30%;
+  padding-left: 180px;
+}
+
+
+.boton{
+
+font-weight: 600;
+font-size: 20px;
+color:#ffffff;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#8c0000;
+border-color: #21211e;
+border-width: 3px;
+border-style: solid;
+border-radius: 10px;
+margin-left: 180px;
+box-sizing: border-box;
+
+}
