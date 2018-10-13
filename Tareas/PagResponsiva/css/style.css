@@ -1,0 +1,45 @@
+body{
+  background-image: repeating-radial-gradient(#1e1b44,#ffffff);
+}
+
+@media only screen and (min-width: 768px){
+/*.cajitafeliz{
+  display: table;
+}*/
+img{
+  width: 500px;
+  height: auto;
+}
+  .col1{
+    width: 25%;
+    font-size: 15pt;
+    float: left;
+    display: inline-table;
+
+  }
+  .col2{
+    width: 48%;
+  /*  box-sizing: border-box;*/
+    display: inline-table;
+
+  padding-left: 10px;
+  }
+  .col3{
+    width: 25%;
+    font-size: 15pt;
+    float: right;
+    display: inline-table;
+  }
+}
+
+@media only screen and (max-width: 767px){
+  .col2{
+    width: 50%;
+    position: absolute;
+  }
+  [class*="col"]{
+    width: 100%;
+    font-size: 15pt;
+  }
+
+}
