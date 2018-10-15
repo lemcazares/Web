@@ -1,0 +1,96 @@
+/*body{
+  background-color: black;
+}*/
+
+.fondo{
+  background-color: black;
+  margin: 200px, 200px;
+  width: 500px;
+  height: 80px;
+}
+.circulo{
+
+  width:0;
+  height:0;
+  border: 30px solid yellow;
+  border-right: 30px solid black;
+  border-radius: 100%;
+  animation: circulo 2s infinite;
+
+}
+
+.comida1{
+
+  width:0;
+  height:0;
+  border: 10px solid white;
+  border-radius: 100%;
+  margin-top: -35px;
+  margin-left: 80px;
+  animation: comida1 10s infinite;
+
+}
+
+.comida2{
+
+  width:0;
+  height:0;
+  border: 10px solid white;
+  border-radius: 100%;
+  margin-top: -20px;
+  margin-left: 160px;
+  animation: comida2 10s infinite;
+
+}
+.comida3{
+
+  width:0;
+  height:0;
+  border: 10px solid white;
+  border-radius: 100%;
+  margin-top: -20px;
+  margin-left: 240px;
+  animation: comida3 10s infinite;
+
+}
+.comida4{
+
+  width:0;
+  height:0;
+  border: 10px solid white;
+  border-radius: 100%;
+  margin-top: -20px;
+  margin-left: 330px;
+  animation: comida4 10s infinite;
+
+}
+.comida5{
+
+  width:0;
+  height:0;
+  border: 10px solid white;
+  border-radius: 100%;
+  margin-top: -20px;
+  margin-left: 420px;
+  animation: comida5 10s infinite;
+
+}
+
+
+
+@keyframes circulo
+{
+0% {transform: translateX(0px); border-right: 30px solid black; background-color: black;}
+10% {transform: translateX(44px); border-right: 30px solid yellow; background-color: yellow;}
+20% {transform: translateX(88px); border-right: 30px solid black; background-color: black;}
+30% {transform: translateX(132px); border-right: 30px solid yellow; background-color: yellow;}
+40% {transform: translateX(176px); border-right: 30px solid black; background-color: black;}
+50% {transform: translateX(220px); border-right: 30px solid yellow; background-color: yellow;}
+60% {transform: translateX(264px); border-right: 30px solid black; background-color: black;}
+70% {transform: translateX(308px); border-right: 30px solid yellow; background-color: yellow;}
+80% {transform: translateX(352px); border-right: 30px solid black; background-color: black;}
+90% {transform: translateX(396px); border-right: 30px solid yellow; background-color: yellow;}
+100% {transform: translateX(440px);border-right: : 30px solid black; background-color: white;}
+
+
+}
