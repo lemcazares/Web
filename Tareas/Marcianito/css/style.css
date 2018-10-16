@@ -1,0 +1,49 @@
+body{
+  background-image: url(https://wallpaper.wiki/wp-content/uploads/2016/09/alien-wallpaper-HD-Free-Download-6.jpg);
+  background-size: cover;
+}
+h1{
+
+  color: white;
+
+}
+.caja{
+  margin: 700px, 200px;
+
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 300px;
+  box-sizing: border-box;
+}
+.boton{
+
+font-weight: 600;
+font-size: 20px;
+color:#ffffff;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#8c0000;
+border-color: #21211e;
+border-width: 3px;
+border-style: solid;
+border-radius: 10px;
+margin-left: 280px;
+box-sizing: border-box;
+position: relative;
+
+}
+
+input[type=text] {
+    width: 100%;
+    border-color: #23f700;
+    border-radius: 5px;
+    padding: 12px 20px;
+    margin: 8px 0;
+  font-style: oblique;
+  font-size: 15pt;
+  color: #5bd520;
+  background-color: black;
+    box-sizing: border-box;
+}
