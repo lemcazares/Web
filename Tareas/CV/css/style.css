@@ -1,0 +1,104 @@
+.row{
+  padding: 0px;
+  margin: 0px;
+}
+.col{
+  padding: 0px;
+  margin: 0px;
+}
+
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color:black;
+  }
+.header1{
+	background-color: #ffdccd;
+}
+  .row{
+  	margin: 0px;
+  	padding: 0px;
+  }
+
+  .nav{
+  	margin:0px;
+  	padding: 0px;
+  }
+  .li{
+  	color:black;
+  }
+.foto{
+  width: 20%;
+}
+}
+  .ct{
+  	margin-top: 15px;
+  	margin-bottom: 0px;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  .logo{
+  	float: center;
+  	align-content: center;
+  	text-align: center;
+  	padding-top: 5px;
+  	padding-bottom: 5px;
+  	vertical-align: bottom;
+    width: 50%;
+  }
+
+  .yo{
+  	padding:15px;
+  }
+
+
+  .bar{
+  	background-color: grey;
+  	margin:0px;
+  	padding-top: 0px;
+  	padding-bottom: 0px;
+  }
+
+  .head{
+  	background-color: white;
+  	position:relative;
+  	margin-bottom: 0px;
+
+  }
+
+  .icons{
+	clear: both;
+    height: 100px;
+
+    margin-bottom: 0px;
+   padding-top: 60px;
+    padding-bottom: 0px;
+}
+
+#hey{
+	padding-left: 15px;
+}
+
+.bluee{
+	margin-top: 0px;
+	background-color: #53738e;
+	padding:
+}
+h5{
+	color: black;
+  font-size: 18px;
+}
+
+h3{
+  font-size: 20px;
+  clear: both;
+    height: 100px;
+    margin-bottom: 0px;
+   padding-top: 60px;
+    padding-bottom: 0px;
+}
